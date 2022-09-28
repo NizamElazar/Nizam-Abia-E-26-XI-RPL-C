@@ -1,5 +1,5 @@
 <!doctype html>
-<title>Website Check Page</title>
+<title>Introductions/title>
 <style>
   body { text-align: center; padding: 150px; }
   h1 { font-size: 50px; }
@@ -12,10 +12,10 @@
 <article>
     <h1>We&rsquo;re Jagoan Cloud!</h1>
     <div>
-        <p>Helloo SMKN 4 Malang, this is check page only!</p>
-        <p>Ilham Azis - XIRPL2</p>
+        <p>Haloo SMKN 4 Malang, this is check page only!</p>
+        <p>Nizam Abia Elazar</p>
         <p>Surya Wardhana - XIRPL2</p>
-        <p>&mdash; Thanks</p>
+        <p>&mdash; Thankyou</p>
         
     </div>
 </article>
